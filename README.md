@@ -97,6 +97,7 @@ LTN-CNF-Axiom-Classification/
 │
 ├── requirements.txt                     # Python 依赖
 ├── .gitignore
+├──  AI交互记录（节选整理典型提问）.md       # 整理后的典型AI交互记录
 ├── LICENSE
 └── README.md
 ```
